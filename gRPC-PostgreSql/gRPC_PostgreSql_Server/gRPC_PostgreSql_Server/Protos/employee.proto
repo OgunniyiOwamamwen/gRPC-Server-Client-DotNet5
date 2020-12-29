@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPC_PostgreSql_Server";
+
+package employee;
+
+// The Employee service definition.
+service RemoteEmployee {
+  // Sends a Employee
+  rpc GetAllEmployees (Empty) returns (EmployeeList);
+  rpc GetEmployeebyId (EmployeeLookupModel) returns (EmployeeModel);
+  rpc InsertEmployee (EmployeeModel) returns (Reply);
+  rpc UpdateEmployee (EmployeeModel) returns (Reply);
+  rpc DeleteEmployee (EmployeeLookupModel) returns (Reply);
+}
+message Empty {}
+
+message EmployeeList {
+   repeated EmployeeModel items = 1;
+}
+
+message Reply {
+   string result = 1;
+   bool isOk = 2;
+}
+
+// The request message containing the user's name.
+message EmployeeLookupModel {
+  int32 EmployeeId = 1;
+}
+
+// The response message containing.
+message EmployeeModel {
+   int32 EmployeeId = 1;
+   string Surname = 2;
+   string Name = 3;
+   string Gender = 4;
+   int32 DepartmentId = 5;
+}

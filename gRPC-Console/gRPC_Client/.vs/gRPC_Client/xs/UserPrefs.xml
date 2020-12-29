@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4B99DCB2-FEFC-4A04-A732-ED999B48923F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="gRPC_Client/Program.cs">
+    <Files>
+      <File FileName="gRPC_Client/Program.cs" Line="27" Column="76" />
+      <File FileName="gRPC_Client/gRPC_Client.csproj" />
+      <File FileName="gRPC_Client/Protos/customers.proto" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gRPC_Client" expanded="True">
+            <Node name="gRPC_Client" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.gRPC__Client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

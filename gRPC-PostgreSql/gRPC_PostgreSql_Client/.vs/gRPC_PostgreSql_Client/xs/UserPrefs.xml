@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{41F71A40-C257-4FDA-9637-B97D90C574D9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="gRPC_PostgreSql_Client/Protos/employee.proto">
+    <Files>
+      <File FileName="gRPC_PostgreSql_Client/Program.cs" Line="100" Column="23" />
+      <File FileName="gRPC_PostgreSql_Client/gRPC_PostgreSql_Client.csproj" />
+      <File FileName="gRPC_PostgreSql_Client/Protos/employee.proto" Line="36" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gRPC_PostgreSql_Client" expanded="True">
+            <Node name="gRPC_PostgreSql_Client" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Protos" expanded="True">
+                <Node name="employee.proto" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.gRPC__PostgreSql__Client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

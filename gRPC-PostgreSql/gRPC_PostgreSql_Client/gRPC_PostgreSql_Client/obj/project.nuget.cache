@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jWZXtjpT4DBkN/njfdOe4ojtJvdYmXouc1DAHBoEM0cVl0VH/LjEJGNtsv84LlEpZHyvWxHwHZQcqTnmd8SE9Q==",
+  "success": true,
+  "projectFilePath": "/Users/owamamwen/Projects/gRPC_Apps/gRPC_PostgreSql_Client/gRPC_PostgreSql_Client/gRPC_PostgreSql_Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/owamamwen/.nuget/packages/google.protobuf/3.14.0/google.protobuf.3.14.0.nupkg.sha512",
+    "/Users/owamamwen/.nuget/packages/grpc.core.api/2.34.0/grpc.core.api.2.34.0.nupkg.sha512",
+    "/Users/owamamwen/.nuget/packages/grpc.net.client/2.34.0/grpc.net.client.2.34.0.nupkg.sha512",
+    "/Users/owamamwen/.nuget/packages/grpc.net.common/2.34.0/grpc.net.common.2.34.0.nupkg.sha512",
+    "/Users/owamamwen/.nuget/packages/grpc.tools/2.34.0/grpc.tools.2.34.0.nupkg.sha512",
+    "/Users/owamamwen/.nuget/packages/microsoft.extensions.logging.abstractions/3.0.3/microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "/Users/owamamwen/.nuget/packages/system.diagnostics.diagnosticsource/4.5.1/system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "/Users/owamamwen/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/owamamwen/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
